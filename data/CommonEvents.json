@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["var r=$gameMap.event(16),x=r.x-$gamePlayer.x,y=r.y-$gamePlayer.y,d=Math.sqrt(x*x+y*y);"]},{"code":655,"indent":0,"parameters":["AudioManager.playBgm({name:\"iqro\",volume:Math.max(0,90-d*9),pitch:100,pan:Math.max(-100,Math.min(100,x*20))});"]},{"code":230,"indent":0,"parameters":[5]},{"code":0,"indent":0,"parameters":[]}],"name":"RADIO","switchId":1,"trigger":2}
+]
